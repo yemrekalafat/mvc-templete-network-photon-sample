@@ -1,1 +1,1 @@
-mvc-templete-network-photon-sample
+# Base Template #

@@ -1,0 +1,1 @@
+namespace Runtime.Enums{    public enum PoolKey    {		None,		//*ADDITION*//    }}
