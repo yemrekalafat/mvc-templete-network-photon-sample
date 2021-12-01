@@ -1,0 +1,6 @@
+[submodule "Packages/mvc-base"]
+	path = Packages/mvc-base
+	url = https://github.com/yemrekalafat/mvc-base.git
+[submodule "Packages/mvc-base-network-photon"]
+	path = Packages/mvc-base-network-photon
+	url = https://github.com/yemrekalafat/mvc-base-network-photon.git
